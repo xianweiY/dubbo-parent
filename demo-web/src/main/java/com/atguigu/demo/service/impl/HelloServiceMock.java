@@ -18,7 +18,7 @@ import java.util.UUID;
  * @ClassName : HelloServiceMock
  * @AUTHOR :  YangXianWei
  * @DATE :    2019/6/10 11:38
- * @DESCRIPTION : TODO(用一句话描述该类做什么)
+ * @DESCRIPTION : TODO(mock测试)
  * @since JDK 1.8
  */
 @Service
