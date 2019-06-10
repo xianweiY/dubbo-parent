@@ -7,10 +7,8 @@
  * @date: 2019/6/10 11:38
  * @since JDK 1.8
  */
-package com.atguigu.demo.service.impl;
+package com.atguigu.demo.service;
 
-import com.alibaba.dubbo.config.annotation.Service;
-import com.atguigu.demo.service.HelloService;
 
 import java.util.UUID;
 
@@ -21,7 +19,6 @@ import java.util.UUID;
  * @DESCRIPTION : TODO(mock测试)
  * @since JDK 1.8
  */
-@Service
 public class HelloServiceMock implements HelloService {
     @Override
     public String sayHello(String name) {
